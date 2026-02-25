@@ -1,4 +1,4 @@
-name = "v2ry"
+name = "edge-tunnel"
 main = "_worker.js"
 compatibility_date = "2025-07-19"
 keep_vars = true
